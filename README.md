@@ -14,5 +14,4 @@
 # 快速开始
 * https://github.com/CoderWqk/ToDoList.git        ------      下载项目  
 * npm install      ------      安装node  
-* 安装vue脚手架      ------      npm install vue-cli -g  
 * npm run serve      ------      启动项目  
